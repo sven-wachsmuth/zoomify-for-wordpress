@@ -6,8 +6,5 @@ It uses HTML5-Canvas, .js and .css to display only the parts which are neccesary
 Here you get zoomify:
 https://zoomify.com
 
-add-to-your-function.php
+# add-to-your-function.php
 contains functionality to use the zoomify engine with shortcode in your blog.
-
-\zoomify
-new folder beyond your child theme folder.
